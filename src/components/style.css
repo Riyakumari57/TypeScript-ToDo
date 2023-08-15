@@ -69,8 +69,10 @@
     font-size: 20px;
 }
 
-.todos__single--text{
+.todos__single--change{
+    flex: 1;
     outline: none;
+    border: none;
 }
 
 .icon{

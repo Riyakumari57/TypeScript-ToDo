@@ -51,7 +51,7 @@ const SingleTodo:React.FC<Props> = ({todo , todos , setTodos}) => {
                <input ref={inputRef}
                 value={editTodo} 
                 onChange={(e)=> setEditTodo(e.target.value)} 
-                 className='todos__single--text'/>
+                 className='todos__single--change'/>
        ):(
         
           todo.isDone ? (
