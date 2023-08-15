@@ -1,7 +1,8 @@
 # React + TypeScript + Vite
 
-# Getting Started
+https://github.com/Riyakumari57/TypeScript-ToDo/assets/65845230/fba085ce-ee8d-42d8-af4d-f9ab3c18edf4
 
+# Getting Started
  run the development server:
 ```
 
