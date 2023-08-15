@@ -1,6 +1,7 @@
 # React + TypeScript + Vite
 
-#Getting Started
+# Getting Started
+
 First, run the development server:
 ```
 
